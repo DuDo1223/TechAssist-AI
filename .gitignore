@@ -1,0 +1,27 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc# Ambiente virtual
+.venv/
+venv/
+
+# Chaves e configurações privadas
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Banco de dados com dados locais
+database/*.db
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+database/*.db
+app/database/*.db
